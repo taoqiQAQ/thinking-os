@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Thinking OS Improvement Record",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "incidents",
+    "patterns",
+    "proposals",
+    "releases"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.6"
+    },
+    "incidents": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "patterns": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "proposals": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "releases": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  },
+  "additionalProperties": true
+}

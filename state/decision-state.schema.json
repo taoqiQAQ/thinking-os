@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Thinking OS Decision State",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "decision_id",
+    "decision_question",
+    "objective",
+    "status",
+    "created_at",
+    "updated_at",
+    "current_recommendation",
+    "confidence",
+    "probability_estimates",
+    "assumptions",
+    "evidence",
+    "kill_criteria",
+    "scale_criteria",
+    "decision_journal",
+    "reviews",
+    "outcomes"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.5"
+    },
+    "decision_id": {
+      "type": "string"
+    },
+    "decision_question": {
+      "type": "string"
+    },
+    "objective": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "exploring",
+        "testing",
+        "committed",
+        "paused",
+        "pivoting",
+        "stopped",
+        "closed"
+      ]
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "updated_at": {
+      "type": "string"
+    },
+    "current_recommendation": {
+      "type": "string"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "probability_estimates": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "assumptions": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "kill_criteria": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "scale_criteria": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "decision_journal": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "reviews": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "outcomes": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  },
+  "additionalProperties": true
+}
