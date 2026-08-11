@@ -1,5 +1,7 @@
 # Thinking OS Skill v2.0
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 Thinking OS is a portable [Agent Skill](https://agentskills.io/) that routes complex work to the minimum useful reasoning, evidence, challenge, decision-state, and action machinery. It is a reasoning router—not a single giant prompt.
 
 ## What it does
