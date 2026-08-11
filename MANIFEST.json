@@ -2,7 +2,7 @@
   "name": "thinking-os",
   "version": "2.0.0",
   "package": "production",
-  "file_count_excluding_manifest": 42,
+  "file_count_excluding_manifest": 43,
   "files": [
     {
       "path": ".gitignore",
@@ -31,8 +31,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3267,
-      "sha256": "d520c60dbf9c32d4f9e0d1998b521d53fc048e7a971ccb1d9290a4186ebdbcad"
+      "bytes": 3317,
+      "sha256": "c8e805b1da82dd205d3c2e1ee5e3e2f7d6d7c086b7732b675895f68066f7dbaf"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "bytes": 3301,
+      "sha256": "d38930bb8704bfa9a295245a402dec719a28261ecefd95c7ccd96fad0dfc08ab"
     },
     {
       "path": "RELEASE.md",
