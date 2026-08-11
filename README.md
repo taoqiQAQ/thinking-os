@@ -19,7 +19,7 @@ It intentionally avoids heavy frameworks for simple tasks and does not expose pr
 
 ## Chinese daily-use guide
 
-For a practical Chinese-language walkthrough, read [Thinking OS v2.0.0 Stable 中文日常使用说明书](docs/Thinking%20OS%20v2.0.0%20Stable%20中文日常使用说明书.pdf).
+For a practical Chinese-language walkthrough, read [Thinking OS v2.0.0 Stable 中文日常使用说明书](docs/Thinking%20OS%20v2.0.0%20Stable.md) directly in GitHub.
 
 ## Repository contents
 
