@@ -2,7 +2,7 @@
   "name": "thinking-os",
   "version": "2.0.0",
   "package": "production",
-  "file_count_excluding_manifest": 43,
+  "file_count_excluding_manifest": 44,
   "files": [
     {
       "path": ".gitignore",
@@ -20,6 +20,11 @@
       "sha256": "36e44ea56bbc300ac8b961610912e6cec5b9a31da48fd5c1a97a55d168193c8e"
     },
     {
+      "path": "docs/Thinking OS v2.0.0 Stable 中文日常使用说明书.pdf",
+      "bytes": 989468,
+      "sha256": "7d6ea814f13386496d28c357a61c7d77fc30903161774484dabb8a267f596e0b"
+    },
+    {
       "path": "INSTALL.md",
       "bytes": 1018,
       "sha256": "3e7c01c7ba9f843d2a127dd2c73299185d283623de3daccaee531a69d5df8b86"
@@ -31,13 +36,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3317,
-      "sha256": "c8e805b1da82dd205d3c2e1ee5e3e2f7d6d7c086b7732b675895f68066f7dbaf"
+      "bytes": 3590,
+      "sha256": "f6c27cde53fb118292a3d72501c6d6e9fc1bfc8abbdf664d8dc93f7bf9164e22"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 3301,
-      "sha256": "d38930bb8704bfa9a295245a402dec719a28261ecefd95c7ccd96fad0dfc08ab"
+      "bytes": 3591,
+      "sha256": "c4dd737b383b4a66182e3fa376db2c85eb48aaab02919d8d86ca6298f50368ad"
     },
     {
       "path": "RELEASE.md",
