@@ -17,6 +17,10 @@ Thinking OS helps an agent decide:
 
 It intentionally avoids heavy frameworks for simple tasks and does not expose private chain-of-thought.
 
+## Chinese daily-use guide
+
+For a practical Chinese-language walkthrough, read [Thinking OS v2.0.0 Stable 中文日常使用说明书](docs/Thinking%20OS%20v2.0.0%20Stable%20中文日常使用说明书.pdf).
+
 ## Repository contents
 
 This repository is the **v2.0.0 production runtime package**. It contains the files needed to use the skill:
@@ -26,6 +30,7 @@ SKILL.md                 # Skill entry point and router
 references/              # Detailed policies, models, domains, and protocols
 scripts/                 # Runtime helper engines
 state/                   # Decision-state JSON schemas
+docs/                    # User-facing guides and documentation
 ARCHITECTURE.md          # System architecture
 INSTALL.md               # Installation guidance
 SECURITY.md              # Data and security boundaries
