@@ -19,7 +19,7 @@ Thinking OS 帮助 Agent 判断：
 
 ## 中文日常使用说明书
 
-如果你想了解 Thinking OS 的日常使用方式，请阅读 [Thinking OS v2.0.0 Stable 中文日常使用说明书](docs/Thinking%20OS%20v2.0.0%20Stable%20中文日常使用说明书.pdf)。
+如果你想了解 Thinking OS 的日常使用方式，可以直接在 GitHub 阅读 [Thinking OS v2.0.0 Stable 中文日常使用说明书](docs/Thinking%20OS%20v2.0.0%20Stable.md)。
 
 ## 仓库内容
 
