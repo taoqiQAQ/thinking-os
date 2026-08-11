@@ -17,6 +17,10 @@ Thinking OS 帮助 Agent 判断：
 
 对于简单任务，它会刻意避免使用过重的框架，也不会暴露私有思维链。
 
+## 中文日常使用说明书
+
+如果你想了解 Thinking OS 的日常使用方式，请阅读 [Thinking OS v2.0.0 Stable 中文日常使用说明书](docs/Thinking%20OS%20v2.0.0%20Stable%20中文日常使用说明书.pdf)。
+
 ## 仓库内容
 
 本仓库是 **v2.0.0 生产运行包**，包含使用该 skill 所需的文件：
@@ -26,6 +30,7 @@ SKILL.md                 # Skill 入口和路由器
 references/              # 详细策略、模型、领域和协议
 scripts/                 # 运行时辅助引擎
 state/                   # 决策状态 JSON schema
+docs/                    # 面向使用者的指南和文档
 ARCHITECTURE.md          # 系统架构
 INSTALL.md               # 安装说明
 SECURITY.md              # 数据与安全边界
