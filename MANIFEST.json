@@ -20,9 +20,9 @@
       "sha256": "36e44ea56bbc300ac8b961610912e6cec5b9a31da48fd5c1a97a55d168193c8e"
     },
     {
-      "path": "docs/Thinking OS v2.0.0 Stable 中文日常使用说明书.pdf",
-      "bytes": 989468,
-      "sha256": "7d6ea814f13386496d28c357a61c7d77fc30903161774484dabb8a267f596e0b"
+      "path": "docs/Thinking OS v2.0.0 Stable.md",
+      "bytes": 22886,
+      "sha256": "c0a1a3d31af2e65159fdd2f45b5692aac919de41efd6c7599114fc770875c500"
     },
     {
       "path": "INSTALL.md",
@@ -36,13 +36,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3590,
-      "sha256": "f6c27cde53fb118292a3d72501c6d6e9fc1bfc8abbdf664d8dc93f7bf9164e22"
+      "bytes": 3578,
+      "sha256": "0937f4d68593a1feea55d20f68036de1ce626b9fcba86aab3876d40430726707"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 3591,
-      "sha256": "c4dd737b383b4a66182e3fa376db2c85eb48aaab02919d8d86ca6298f50368ad"
+      "bytes": 3580,
+      "sha256": "5aefe5306659fec01a66e640e59fe2b70002645b7614862c38094a12c9ec9685"
     },
     {
       "path": "RELEASE.md",
